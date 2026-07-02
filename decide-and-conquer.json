@@ -8,6 +8,20 @@
         "completedDate": null,
         "createdDate": "2026-07-02",
         "recurId": "mr31ie8wijemv"
+      },
+      {
+        "id": "mr3238cy9u407",
+        "text": "GEV : Follow-up on pending action items (FORM, MSA etc)",
+        "done": false,
+        "completedDate": null,
+        "createdDate": "2026-07-02"
+      },
+      {
+        "id": "mr31wsrup22uv",
+        "text": "HR Support : SSS Salary Loan",
+        "done": false,
+        "completedDate": null,
+        "createdDate": "2026-07-02"
       }
     ],
     "plan": [
