@@ -1,0 +1,1158 @@
+{
+  "board": {
+    "do": [
+      {
+        "id": "mr31i54b249c5",
+        "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+        "done": false,
+        "completedDate": null,
+        "createdDate": "2026-07-02",
+        "recurId": "mr31ie8wijemv"
+      }
+    ],
+    "plan": [
+      {
+        "id": "mr31gkpc4sy78",
+        "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+        "done": false,
+        "completedDate": null,
+        "createdDate": "2026-07-02",
+        "recurId": "mr31ioleyjqh0"
+      },
+      {
+        "id": "mr31hch0pw6gu",
+        "text": "Learning : Anthropic Academy",
+        "done": false,
+        "completedDate": null,
+        "createdDate": "2026-07-02",
+        "recurId": "mr31itxaa9701"
+      }
+    ],
+    "delegate": [],
+    "delete": []
+  },
+  "archive": [],
+  "scheduled": [
+    {
+      "id": "mr31ie8wt2r9s",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-03",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8w5avei",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-06",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8whkuxe",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-07",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8w3j6t6",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-08",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8w1cm4b",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-09",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8w04one",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-10",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8wofad4",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-13",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8wi7ip5",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-14",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8wh0u39",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-15",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8w7ekee",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-16",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8wh8g8v",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-17",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8wvmdr3",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-20",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8wb7m4x",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-21",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8wvgpp7",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-22",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8wt86kc",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-23",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x15nnm",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-24",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x4wsel",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-27",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xehnt0",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-28",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xxsgqs",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-29",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xff5rw",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-30",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xpmrb5",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-31",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xpk15b",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-08-03",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xp3o62",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-08-04",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xlzel3",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-08-05",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x7w7cb",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-08-06",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xx14uf",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-08-07",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xwm9se",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-08-10",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xgfqqg",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-08-11",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x5ghl2",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-08-12",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xbto6u",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-08-13",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xrolg8",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-08-14",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x1pm5y",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-08-17",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xnrhfk",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-08-18",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xjwdfb",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-08-19",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xaj98n",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-08-20",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xs2yqn",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-08-21",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x84dkq",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-08-24",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xm57e2",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-08-25",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xiqomi",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-08-26",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x7muuw",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-08-27",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x9sjgu",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-08-28",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xbyhq4",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-08-31",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xp5fjt",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-09-01",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xro88f",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-09-02",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xwjhox",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-09-03",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xbw2dz",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-09-04",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x3s41o",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-09-07",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xsgapg",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-09-08",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x0iocj",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-09-09",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xfx6gs",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-09-10",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xvdi45",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-09-11",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xz733o",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-09-14",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xd0nke",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-09-15",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x30scx",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-09-16",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xl6msz",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-09-17",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xd9qec",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-09-18",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xh8z3l",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-09-21",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x8cng1",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-09-22",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x57pba",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-09-23",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x1pdx7",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-09-24",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xce9qp",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-09-25",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xuv18b",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-09-28",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xi1fbh",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-09-29",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xej6al",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-09-30",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xgid6o",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-10-01",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xug8ry",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-10-02",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xxkbh4",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-10-05",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xzhjnh",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-10-06",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xc9f9d",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-10-07",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xw9hoo",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-10-08",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xo2tbg",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-10-09",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xpafw3",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-10-12",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xi5pt9",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-10-13",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xtdfsv",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-10-14",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x6fa2q",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-10-15",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xhgxz6",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-10-16",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x750e2",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-10-19",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x78z85",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-10-20",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xpjjr9",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-10-21",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x546d5",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-10-22",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xddomn",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-10-23",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xcgss5",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-10-26",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xdvq8c",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-10-27",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xq6emc",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-10-28",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xha794",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-10-29",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xhqujv",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-10-30",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x601yd",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-11-02",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x25s27",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-11-03",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xfqr4r",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-11-04",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xmivy1",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-11-05",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x0d56s",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-11-06",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xislt6",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-11-09",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x7ycdm",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-11-10",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x4sj6v",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-11-11",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xvxnz3",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-11-12",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x2tb4g",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-11-13",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xrufs7",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-11-16",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x4as4j",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-11-17",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x7q8m3",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-11-18",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x8t41p",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-11-19",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xwads7",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-11-20",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xsuxhn",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-11-23",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xallv8",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-11-24",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xcrei1",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-11-25",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x8jt0k",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-11-26",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xl3ijy",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-11-27",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x3kb73",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-11-30",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xydryy",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-12-01",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xyg62x",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-12-02",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xagw13",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-12-03",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xf9yri",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-12-04",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xg1u3w",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-12-07",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xrra9f",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-12-08",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xwsl6z",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-12-09",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xtcvh6",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-12-10",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xfny41",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-12-11",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xu2n6y",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-12-14",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8x1g6lk",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-12-15",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xew9jn",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-12-16",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31ie8xfgxsi",
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-12-17",
+      "recurId": "mr31ie8wijemv"
+    },
+    {
+      "id": "mr31iolebqxdg",
+      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+      "quadrant": "plan",
+      "date": "2026-07-03",
+      "recurId": "mr31ioleyjqh0"
+    },
+    {
+      "id": "mr31ioleovpz8",
+      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+      "quadrant": "plan",
+      "date": "2026-07-06",
+      "recurId": "mr31ioleyjqh0"
+    },
+    {
+      "id": "mr31iolep3rhc",
+      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+      "quadrant": "plan",
+      "date": "2026-07-07",
+      "recurId": "mr31ioleyjqh0"
+    },
+    {
+      "id": "mr31iole6c9pj",
+      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+      "quadrant": "plan",
+      "date": "2026-07-08",
+      "recurId": "mr31ioleyjqh0"
+    },
+    {
+      "id": "mr31ioleklo7g",
+      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+      "quadrant": "plan",
+      "date": "2026-07-09",
+      "recurId": "mr31ioleyjqh0"
+    },
+    {
+      "id": "mr31iole2vdks",
+      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+      "quadrant": "plan",
+      "date": "2026-07-10",
+      "recurId": "mr31ioleyjqh0"
+    },
+    {
+      "id": "mr31iole3cia9",
+      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+      "quadrant": "plan",
+      "date": "2026-07-13",
+      "recurId": "mr31ioleyjqh0"
+    },
+    {
+      "id": "mr31ioleu0yr5",
+      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+      "quadrant": "plan",
+      "date": "2026-07-14",
+      "recurId": "mr31ioleyjqh0"
+    },
+    {
+      "id": "mr31ioledpiqg",
+      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+      "quadrant": "plan",
+      "date": "2026-07-15",
+      "recurId": "mr31ioleyjqh0"
+    },
+    {
+      "id": "mr31iolej4xem",
+      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+      "quadrant": "plan",
+      "date": "2026-07-16",
+      "recurId": "mr31ioleyjqh0"
+    },
+    {
+      "id": "mr31iolesghu9",
+      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+      "quadrant": "plan",
+      "date": "2026-07-17",
+      "recurId": "mr31ioleyjqh0"
+    },
+    {
+      "id": "mr31ioleafgj8",
+      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+      "quadrant": "plan",
+      "date": "2026-07-20",
+      "recurId": "mr31ioleyjqh0"
+    },
+    {
+      "id": "mr31iolewn1zp",
+      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+      "quadrant": "plan",
+      "date": "2026-07-21",
+      "recurId": "mr31ioleyjqh0"
+    },
+    {
+      "id": "mr31iolep0jk4",
+      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+      "quadrant": "plan",
+      "date": "2026-07-22",
+      "recurId": "mr31ioleyjqh0"
+    },
+    {
+      "id": "mr31ioleyulob",
+      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+      "quadrant": "plan",
+      "date": "2026-07-23",
+      "recurId": "mr31ioleyjqh0"
+    },
+    {
+      "id": "mr31iolekcaqq",
+      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+      "quadrant": "plan",
+      "date": "2026-07-24",
+      "recurId": "mr31ioleyjqh0"
+    },
+    {
+      "id": "mr31ioleluqss",
+      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+      "quadrant": "plan",
+      "date": "2026-07-27",
+      "recurId": "mr31ioleyjqh0"
+    },
+    {
+      "id": "mr31iole0866c",
+      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+      "quadrant": "plan",
+      "date": "2026-07-28",
+      "recurId": "mr31ioleyjqh0"
+    },
+    {
+      "id": "mr31iolete16g",
+      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+      "quadrant": "plan",
+      "date": "2026-07-29",
+      "recurId": "mr31ioleyjqh0"
+    },
+    {
+      "id": "mr31iole6oi3f",
+      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+      "quadrant": "plan",
+      "date": "2026-07-30",
+      "recurId": "mr31ioleyjqh0"
+    },
+    {
+      "id": "mr31itxajodgj",
+      "text": "Learning : Anthropic Academy",
+      "quadrant": "plan",
+      "date": "2026-07-03",
+      "recurId": "mr31itxaa9701"
+    },
+    {
+      "id": "mr31itxao5yqy",
+      "text": "Learning : Anthropic Academy",
+      "quadrant": "plan",
+      "date": "2026-07-06",
+      "recurId": "mr31itxaa9701"
+    },
+    {
+      "id": "mr31itxar3fhd",
+      "text": "Learning : Anthropic Academy",
+      "quadrant": "plan",
+      "date": "2026-07-07",
+      "recurId": "mr31itxaa9701"
+    },
+    {
+      "id": "mr31itxa5ekao",
+      "text": "Learning : Anthropic Academy",
+      "quadrant": "plan",
+      "date": "2026-07-08",
+      "recurId": "mr31itxaa9701"
+    },
+    {
+      "id": "mr31itxa7ksoq",
+      "text": "Learning : Anthropic Academy",
+      "quadrant": "plan",
+      "date": "2026-07-09",
+      "recurId": "mr31itxaa9701"
+    },
+    {
+      "id": "mr31itxawr3q3",
+      "text": "Learning : Anthropic Academy",
+      "quadrant": "plan",
+      "date": "2026-07-10",
+      "recurId": "mr31itxaa9701"
+    },
+    {
+      "id": "mr31itxa6lv66",
+      "text": "Learning : Anthropic Academy",
+      "quadrant": "plan",
+      "date": "2026-07-13",
+      "recurId": "mr31itxaa9701"
+    },
+    {
+      "id": "mr31itxa9v2ym",
+      "text": "Learning : Anthropic Academy",
+      "quadrant": "plan",
+      "date": "2026-07-14",
+      "recurId": "mr31itxaa9701"
+    },
+    {
+      "id": "mr31itxakzj1h",
+      "text": "Learning : Anthropic Academy",
+      "quadrant": "plan",
+      "date": "2026-07-15",
+      "recurId": "mr31itxaa9701"
+    },
+    {
+      "id": "mr31itxapnes1",
+      "text": "Learning : Anthropic Academy",
+      "quadrant": "plan",
+      "date": "2026-07-16",
+      "recurId": "mr31itxaa9701"
+    },
+    {
+      "id": "mr31itxa4g0jp",
+      "text": "Learning : Anthropic Academy",
+      "quadrant": "plan",
+      "date": "2026-07-17",
+      "recurId": "mr31itxaa9701"
+    },
+    {
+      "id": "mr31itxae0rp8",
+      "text": "Learning : Anthropic Academy",
+      "quadrant": "plan",
+      "date": "2026-07-20",
+      "recurId": "mr31itxaa9701"
+    },
+    {
+      "id": "mr31itxa7slyz",
+      "text": "Learning : Anthropic Academy",
+      "quadrant": "plan",
+      "date": "2026-07-21",
+      "recurId": "mr31itxaa9701"
+    },
+    {
+      "id": "mr31itxai5m2r",
+      "text": "Learning : Anthropic Academy",
+      "quadrant": "plan",
+      "date": "2026-07-22",
+      "recurId": "mr31itxaa9701"
+    },
+    {
+      "id": "mr31itxazewkw",
+      "text": "Learning : Anthropic Academy",
+      "quadrant": "plan",
+      "date": "2026-07-23",
+      "recurId": "mr31itxaa9701"
+    },
+    {
+      "id": "mr31itxaa8hq9",
+      "text": "Learning : Anthropic Academy",
+      "quadrant": "plan",
+      "date": "2026-07-24",
+      "recurId": "mr31itxaa9701"
+    },
+    {
+      "id": "mr31itxap8ony",
+      "text": "Learning : Anthropic Academy",
+      "quadrant": "plan",
+      "date": "2026-07-27",
+      "recurId": "mr31itxaa9701"
+    },
+    {
+      "id": "mr31itxa7g2il",
+      "text": "Learning : Anthropic Academy",
+      "quadrant": "plan",
+      "date": "2026-07-28",
+      "recurId": "mr31itxaa9701"
+    },
+    {
+      "id": "mr31itxa8p6d4",
+      "text": "Learning : Anthropic Academy",
+      "quadrant": "plan",
+      "date": "2026-07-29",
+      "recurId": "mr31itxaa9701"
+    },
+    {
+      "id": "mr31itxa71kc2",
+      "text": "Learning : Anthropic Academy",
+      "quadrant": "plan",
+      "date": "2026-07-30",
+      "recurId": "mr31itxaa9701"
+    }
+  ],
+  "lastActiveDate": "2026-07-02"
+}
