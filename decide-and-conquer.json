@@ -2,11 +2,25 @@
   "board": {
     "do": [
       {
-        "id": "mr31i54b249c5",
+        "id": "mr4mfrce37hpa",
+        "text": "12598064 Google GBO_Ads - Requirements Gathering",
+        "done": false,
+        "completedDate": null,
+        "createdDate": "2026-07-03"
+      },
+      {
+        "id": "mr4mf02xxms8k",
+        "text": "12604064 Google TI_SCOT - Alignment with ATCI SA",
+        "done": false,
+        "completedDate": null,
+        "createdDate": "2026-07-03"
+      },
+      {
+        "id": "mr4m9ce9ki6gj",
         "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
         "done": false,
         "completedDate": null,
-        "createdDate": "2026-07-02",
+        "createdDate": "2026-07-03",
         "recurId": "mr31ie8wijemv"
       },
       {
@@ -19,27 +33,34 @@
       {
         "id": "mr31wsrup22uv",
         "text": "HR Support : SSS Salary Loan",
-        "done": false,
-        "completedDate": null,
+        "done": true,
+        "completedDate": "2026-07-03",
         "createdDate": "2026-07-02"
       }
     ],
     "plan": [
       {
-        "id": "mr31gkpc4sy78",
+        "id": "mr4m9ce9v5965",
         "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
         "done": false,
         "completedDate": null,
-        "createdDate": "2026-07-02",
+        "createdDate": "2026-07-03",
         "recurId": "mr31ioleyjqh0"
       },
       {
-        "id": "mr31hch0pw6gu",
+        "id": "mr4m9ce94zevu",
         "text": "Learning : Anthropic Academy",
         "done": false,
         "completedDate": null,
-        "createdDate": "2026-07-02",
+        "createdDate": "2026-07-03",
         "recurId": "mr31itxaa9701"
+      },
+      {
+        "id": "mr4mi9ynobpor",
+        "text": "Learning : Intro to ATCI Approval Process c/o Shama (12:15PM)",
+        "done": false,
+        "completedDate": null,
+        "createdDate": "2026-07-03"
       }
     ],
     "delegate": [],
@@ -47,13 +68,6 @@
   },
   "archive": [],
   "scheduled": [
-    {
-      "id": "mr31ie8wt2r9s",
-      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-      "quadrant": "do",
-      "date": "2026-07-03",
-      "recurId": "mr31ie8wijemv"
-    },
     {
       "id": "mr31ie8w5avei",
       "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
@@ -888,13 +902,6 @@
       "recurId": "mr31ie8wijemv"
     },
     {
-      "id": "mr31iolebqxdg",
-      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
-      "quadrant": "plan",
-      "date": "2026-07-03",
-      "recurId": "mr31ioleyjqh0"
-    },
-    {
       "id": "mr31ioleovpz8",
       "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
       "quadrant": "plan",
@@ -1026,13 +1033,6 @@
       "quadrant": "plan",
       "date": "2026-07-30",
       "recurId": "mr31ioleyjqh0"
-    },
-    {
-      "id": "mr31itxajodgj",
-      "text": "Learning : Anthropic Academy",
-      "quadrant": "plan",
-      "date": "2026-07-03",
-      "recurId": "mr31itxaa9701"
     },
     {
       "id": "mr31itxao5yqy",
@@ -1168,5 +1168,5 @@
       "recurId": "mr31itxaa9701"
     }
   ],
-  "lastActiveDate": "2026-07-02"
+  "lastActiveDate": "2026-07-03"
 }
