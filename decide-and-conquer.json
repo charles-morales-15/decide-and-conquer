@@ -11,8 +11,8 @@
       {
         "id": "mr4mf02xxms8k",
         "text": "12604064 Google TI_SCOT - Alignment with ATCI SA",
-        "done": false,
-        "completedDate": null,
+        "done": true,
+        "completedDate": "2026-07-03",
         "createdDate": "2026-07-03"
       },
       {
@@ -58,8 +58,8 @@
       {
         "id": "mr4mi9ynobpor",
         "text": "Learning : Intro to ATCI Approval Process c/o Shama (12:15PM)",
-        "done": false,
-        "completedDate": null,
+        "done": true,
+        "completedDate": "2026-07-03",
         "createdDate": "2026-07-03"
       }
     ],
