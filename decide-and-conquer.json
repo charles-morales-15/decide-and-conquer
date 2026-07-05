@@ -9,21 +9,6 @@
         "createdDate": "2026-07-03"
       },
       {
-        "id": "mr4mf02xxms8k",
-        "text": "12604064 Google TI_SCOT - Alignment with ATCI SA",
-        "done": true,
-        "completedDate": "2026-07-03",
-        "createdDate": "2026-07-03"
-      },
-      {
-        "id": "mr4m9ce9ki6gj",
-        "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-        "done": false,
-        "completedDate": null,
-        "createdDate": "2026-07-03",
-        "recurId": "mr31ie8wijemv"
-      },
-      {
         "id": "mr3238cy9u407",
         "text": "GEV : Follow-up on pending action items (FORM, MSA etc)",
         "done": false,
@@ -31,42 +16,34 @@
         "createdDate": "2026-07-02"
       },
       {
-        "id": "mr31wsrup22uv",
-        "text": "HR Support : SSS Salary Loan",
+        "id": "mr7n1c3d0im5b",
+        "text": "House Cleaning - Unpack Laundry, Bathroom Cleaning, Sweep",
         "done": true,
-        "completedDate": "2026-07-03",
-        "createdDate": "2026-07-02"
+        "completedDate": "2026-07-05",
+        "createdDate": "2026-07-05"
       }
     ],
-    "plan": [
-      {
-        "id": "mr4m9ce9v5965",
-        "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
-        "done": false,
-        "completedDate": null,
-        "createdDate": "2026-07-03",
-        "recurId": "mr31ioleyjqh0"
-      },
-      {
-        "id": "mr4m9ce94zevu",
-        "text": "Learning : Anthropic Academy",
-        "done": false,
-        "completedDate": null,
-        "createdDate": "2026-07-03",
-        "recurId": "mr31itxaa9701"
-      },
-      {
-        "id": "mr4mi9ynobpor",
-        "text": "Learning : Intro to ATCI Approval Process c/o Shama (12:15PM)",
-        "done": true,
-        "completedDate": "2026-07-03",
-        "createdDate": "2026-07-03"
-      }
-    ],
+    "plan": [],
     "delegate": [],
     "delete": []
   },
-  "archive": [],
+  "archive": [
+    {
+      "text": "12604064 Google TI_SCOT - Alignment with ATCI SA",
+      "quadrant": "do",
+      "date": "2026-07-03"
+    },
+    {
+      "text": "HR Support : SSS Salary Loan",
+      "quadrant": "do",
+      "date": "2026-07-03"
+    },
+    {
+      "text": "Learning : Intro to ATCI Approval Process c/o Shama (12:15PM)",
+      "quadrant": "plan",
+      "date": "2026-07-03"
+    }
+  ],
   "scheduled": [
     {
       "id": "mr31ie8w5avei",
@@ -1168,5 +1145,5 @@
       "recurId": "mr31itxaa9701"
     }
   ],
-  "lastActiveDate": "2026-07-03"
+  "lastActiveDate": "2026-07-05"
 }
