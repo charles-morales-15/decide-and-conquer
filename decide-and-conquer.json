@@ -23,7 +23,15 @@
         "createdDate": "2026-07-05"
       }
     ],
-    "plan": [],
+    "plan": [
+      {
+        "id": "mr7n1y61vkzb3",
+        "text": "Hear Online Victory BGC 11:00AM Service",
+        "done": true,
+        "completedDate": "2026-07-05",
+        "createdDate": "2026-07-05"
+      }
+    ],
     "delegate": [],
     "delete": []
   },
