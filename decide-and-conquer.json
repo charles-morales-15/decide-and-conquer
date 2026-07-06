@@ -9,27 +9,58 @@
         "createdDate": "2026-07-03"
       },
       {
+        "id": "mr85fh6h6hf4p",
+        "text": "12604064 Google SFWT_ENG - Solution Plan",
+        "done": false,
+        "completedDate": null,
+        "createdDate": "2026-07-06"
+      },
+      {
+        "id": "mr85eh1nbrl80",
+        "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+        "done": false,
+        "completedDate": null,
+        "createdDate": "2026-07-06",
+        "recurId": "mr31ie8wijemv"
+      },
+      {
+        "id": "mr8udlk0knfvw",
+        "text": "Contract and Access Card Renewal",
+        "done": false,
+        "completedDate": null,
+        "createdDate": "2026-07-06"
+      },
+      {
         "id": "mr3238cy9u407",
         "text": "GEV : Follow-up on pending action items (FORM, MSA etc)",
         "done": false,
         "completedDate": null,
         "createdDate": "2026-07-02"
-      },
-      {
-        "id": "mr7n1c3d0im5b",
-        "text": "House Cleaning - Unpack Laundry, Bathroom Cleaning, Sweep",
-        "done": true,
-        "completedDate": "2026-07-05",
-        "createdDate": "2026-07-05"
       }
     ],
     "plan": [
       {
-        "id": "mr7n1y61vkzb3",
-        "text": "Hear Online Victory BGC 11:00AM Service",
-        "done": true,
-        "completedDate": "2026-07-05",
-        "createdDate": "2026-07-05"
+        "id": "mr85fx1z4j8yh",
+        "text": "Interview with aCommerce (06:00PM",
+        "done": false,
+        "completedDate": null,
+        "createdDate": "2026-07-06"
+      },
+      {
+        "id": "mr85eh1ns0q2h",
+        "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+        "done": false,
+        "completedDate": null,
+        "createdDate": "2026-07-06",
+        "recurId": "mr31ioleyjqh0"
+      },
+      {
+        "id": "mr85eh1nb13kh",
+        "text": "Learning : Anthropic Academy",
+        "done": false,
+        "completedDate": null,
+        "createdDate": "2026-07-06",
+        "recurId": "mr31itxaa9701"
       }
     ],
     "delegate": [],
@@ -50,16 +81,19 @@
       "text": "Learning : Intro to ATCI Approval Process c/o Shama (12:15PM)",
       "quadrant": "plan",
       "date": "2026-07-03"
+    },
+    {
+      "text": "House Cleaning - Unpack Laundry, Bathroom Cleaning, Sweep",
+      "quadrant": "do",
+      "date": "2026-07-05"
+    },
+    {
+      "text": "Hear Online Victory BGC 11:00AM Service",
+      "quadrant": "plan",
+      "date": "2026-07-05"
     }
   ],
   "scheduled": [
-    {
-      "id": "mr31ie8w5avei",
-      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-      "quadrant": "do",
-      "date": "2026-07-06",
-      "recurId": "mr31ie8wijemv"
-    },
     {
       "id": "mr31ie8whkuxe",
       "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
@@ -887,13 +921,6 @@
       "recurId": "mr31ie8wijemv"
     },
     {
-      "id": "mr31ioleovpz8",
-      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
-      "quadrant": "plan",
-      "date": "2026-07-06",
-      "recurId": "mr31ioleyjqh0"
-    },
-    {
       "id": "mr31iolep3rhc",
       "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
       "quadrant": "plan",
@@ -1018,13 +1045,6 @@
       "quadrant": "plan",
       "date": "2026-07-30",
       "recurId": "mr31ioleyjqh0"
-    },
-    {
-      "id": "mr31itxao5yqy",
-      "text": "Learning : Anthropic Academy",
-      "quadrant": "plan",
-      "date": "2026-07-06",
-      "recurId": "mr31itxaa9701"
     },
     {
       "id": "mr31itxar3fhd",
@@ -1153,5 +1173,5 @@
       "recurId": "mr31itxaa9701"
     }
   ],
-  "lastActiveDate": "2026-07-05"
+  "lastActiveDate": "2026-07-06"
 }
