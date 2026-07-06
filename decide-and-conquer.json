@@ -18,16 +18,16 @@
       {
         "id": "mr85eh1nbrl80",
         "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-        "done": false,
-        "completedDate": null,
+        "done": true,
+        "completedDate": "2026-07-06",
         "createdDate": "2026-07-06",
         "recurId": "mr31ie8wijemv"
       },
       {
-        "id": "mr8udlk0knfvw",
-        "text": "Contract and Access Card Renewal",
-        "done": false,
-        "completedDate": null,
+        "id": "mr8ufo89te43s",
+        "text": "Evolt Result (AF Light)",
+        "done": true,
+        "completedDate": "2026-07-06",
         "createdDate": "2026-07-06"
       },
       {
@@ -36,14 +36,21 @@
         "done": false,
         "completedDate": null,
         "createdDate": "2026-07-02"
+      },
+      {
+        "id": "mr8udlk0knfvw",
+        "text": "Notarized Contract and Access Card Renewal",
+        "done": true,
+        "completedDate": "2026-07-06",
+        "createdDate": "2026-07-06"
       }
     ],
     "plan": [
       {
         "id": "mr85fx1z4j8yh",
-        "text": "Interview with aCommerce (06:00PM",
-        "done": false,
-        "completedDate": null,
+        "text": "Interview with aCommerce (06:00PM)",
+        "done": true,
+        "completedDate": "2026-07-06",
         "createdDate": "2026-07-06"
       },
       {
