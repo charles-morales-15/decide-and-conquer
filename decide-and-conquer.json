@@ -16,19 +16,12 @@
         "createdDate": "2026-07-06"
       },
       {
-        "id": "mr85eh1nbrl80",
+        "id": "mran73qz4h0wn",
         "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-        "done": true,
-        "completedDate": "2026-07-06",
-        "createdDate": "2026-07-06",
+        "done": false,
+        "completedDate": null,
+        "createdDate": "2026-07-07",
         "recurId": "mr31ie8wijemv"
-      },
-      {
-        "id": "mr8ufo89te43s",
-        "text": "Evolt Result (AF Light)",
-        "done": true,
-        "completedDate": "2026-07-06",
-        "createdDate": "2026-07-06"
       },
       {
         "id": "mr3238cy9u407",
@@ -36,37 +29,23 @@
         "done": false,
         "completedDate": null,
         "createdDate": "2026-07-02"
-      },
-      {
-        "id": "mr8udlk0knfvw",
-        "text": "Notarized Contract and Access Card Renewal",
-        "done": true,
-        "completedDate": "2026-07-06",
-        "createdDate": "2026-07-06"
       }
     ],
     "plan": [
       {
-        "id": "mr85fx1z4j8yh",
-        "text": "Interview with aCommerce (06:00PM)",
-        "done": true,
-        "completedDate": "2026-07-06",
-        "createdDate": "2026-07-06"
-      },
-      {
-        "id": "mr85eh1ns0q2h",
+        "id": "mran73qzpee2m",
         "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
         "done": false,
         "completedDate": null,
-        "createdDate": "2026-07-06",
+        "createdDate": "2026-07-07",
         "recurId": "mr31ioleyjqh0"
       },
       {
-        "id": "mr85eh1nb13kh",
+        "id": "mran73qz0kbol",
         "text": "Learning : Anthropic Academy",
         "done": false,
         "completedDate": null,
-        "createdDate": "2026-07-06",
+        "createdDate": "2026-07-07",
         "recurId": "mr31itxaa9701"
       }
     ],
@@ -98,16 +77,29 @@
       "text": "Hear Online Victory BGC 11:00AM Service",
       "quadrant": "plan",
       "date": "2026-07-05"
+    },
+    {
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-06"
+    },
+    {
+      "text": "Evolt Result (AF Light)",
+      "quadrant": "do",
+      "date": "2026-07-06"
+    },
+    {
+      "text": "Notarized Contract and Access Card Renewal",
+      "quadrant": "do",
+      "date": "2026-07-06"
+    },
+    {
+      "text": "Interview with aCommerce (06:00PM)",
+      "quadrant": "plan",
+      "date": "2026-07-06"
     }
   ],
   "scheduled": [
-    {
-      "id": "mr31ie8whkuxe",
-      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-      "quadrant": "do",
-      "date": "2026-07-07",
-      "recurId": "mr31ie8wijemv"
-    },
     {
       "id": "mr31ie8w3j6t6",
       "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
@@ -928,13 +920,6 @@
       "recurId": "mr31ie8wijemv"
     },
     {
-      "id": "mr31iolep3rhc",
-      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
-      "quadrant": "plan",
-      "date": "2026-07-07",
-      "recurId": "mr31ioleyjqh0"
-    },
-    {
       "id": "mr31iole6c9pj",
       "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
       "quadrant": "plan",
@@ -1052,13 +1037,6 @@
       "quadrant": "plan",
       "date": "2026-07-30",
       "recurId": "mr31ioleyjqh0"
-    },
-    {
-      "id": "mr31itxar3fhd",
-      "text": "Learning : Anthropic Academy",
-      "quadrant": "plan",
-      "date": "2026-07-07",
-      "recurId": "mr31itxaa9701"
     },
     {
       "id": "mr31itxa5ekao",
@@ -1180,5 +1158,5 @@
       "recurId": "mr31itxaa9701"
     }
   ],
-  "lastActiveDate": "2026-07-06"
+  "lastActiveDate": "2026-07-07"
 }
