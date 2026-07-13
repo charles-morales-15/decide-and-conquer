@@ -16,11 +16,11 @@
         "createdDate": "2026-07-06"
       },
       {
-        "id": "mran73qz4h0wn",
+        "id": "mrio5yos64vpd",
         "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-        "done": false,
-        "completedDate": null,
-        "createdDate": "2026-07-07",
+        "done": true,
+        "completedDate": "2026-07-13",
+        "createdDate": "2026-07-13",
         "recurId": "mr31ie8wijemv"
       },
       {
@@ -29,24 +29,38 @@
         "done": false,
         "completedDate": null,
         "createdDate": "2026-07-02"
+      },
+      {
+        "id": "mripp0nfb6voa",
+        "text": "Submit myTE Entries for July 1 -15 cut-off",
+        "done": true,
+        "completedDate": "2026-07-13",
+        "createdDate": "2026-07-13"
       }
     ],
     "plan": [
       {
-        "id": "mran73qzpee2m",
+        "id": "mrio5yosbc6m3",
         "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
         "done": false,
         "completedDate": null,
-        "createdDate": "2026-07-07",
+        "createdDate": "2026-07-13",
         "recurId": "mr31ioleyjqh0"
       },
       {
-        "id": "mran73qz0kbol",
+        "id": "mrio5yosmq2hf",
         "text": "Learning : Anthropic Academy",
         "done": false,
         "completedDate": null,
-        "createdDate": "2026-07-07",
+        "createdDate": "2026-07-13",
         "recurId": "mr31itxaa9701"
+      },
+      {
+        "id": "mripofx1mgnhy",
+        "text": "Learning : Old Training recordings",
+        "done": true,
+        "completedDate": "2026-07-13",
+        "createdDate": "2026-07-13"
       }
     ],
     "delegate": [],
@@ -100,34 +114,6 @@
     }
   ],
   "scheduled": [
-    {
-      "id": "mr31ie8w3j6t6",
-      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-      "quadrant": "do",
-      "date": "2026-07-08",
-      "recurId": "mr31ie8wijemv"
-    },
-    {
-      "id": "mr31ie8w1cm4b",
-      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-      "quadrant": "do",
-      "date": "2026-07-09",
-      "recurId": "mr31ie8wijemv"
-    },
-    {
-      "id": "mr31ie8w04one",
-      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-      "quadrant": "do",
-      "date": "2026-07-10",
-      "recurId": "mr31ie8wijemv"
-    },
-    {
-      "id": "mr31ie8wofad4",
-      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-      "quadrant": "do",
-      "date": "2026-07-13",
-      "recurId": "mr31ie8wijemv"
-    },
     {
       "id": "mr31ie8wi7ip5",
       "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
@@ -920,34 +906,6 @@
       "recurId": "mr31ie8wijemv"
     },
     {
-      "id": "mr31iole6c9pj",
-      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
-      "quadrant": "plan",
-      "date": "2026-07-08",
-      "recurId": "mr31ioleyjqh0"
-    },
-    {
-      "id": "mr31ioleklo7g",
-      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
-      "quadrant": "plan",
-      "date": "2026-07-09",
-      "recurId": "mr31ioleyjqh0"
-    },
-    {
-      "id": "mr31iole2vdks",
-      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
-      "quadrant": "plan",
-      "date": "2026-07-10",
-      "recurId": "mr31ioleyjqh0"
-    },
-    {
-      "id": "mr31iole3cia9",
-      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
-      "quadrant": "plan",
-      "date": "2026-07-13",
-      "recurId": "mr31ioleyjqh0"
-    },
-    {
       "id": "mr31ioleu0yr5",
       "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
       "quadrant": "plan",
@@ -1037,34 +995,6 @@
       "quadrant": "plan",
       "date": "2026-07-30",
       "recurId": "mr31ioleyjqh0"
-    },
-    {
-      "id": "mr31itxa5ekao",
-      "text": "Learning : Anthropic Academy",
-      "quadrant": "plan",
-      "date": "2026-07-08",
-      "recurId": "mr31itxaa9701"
-    },
-    {
-      "id": "mr31itxa7ksoq",
-      "text": "Learning : Anthropic Academy",
-      "quadrant": "plan",
-      "date": "2026-07-09",
-      "recurId": "mr31itxaa9701"
-    },
-    {
-      "id": "mr31itxawr3q3",
-      "text": "Learning : Anthropic Academy",
-      "quadrant": "plan",
-      "date": "2026-07-10",
-      "recurId": "mr31itxaa9701"
-    },
-    {
-      "id": "mr31itxa6lv66",
-      "text": "Learning : Anthropic Academy",
-      "quadrant": "plan",
-      "date": "2026-07-13",
-      "recurId": "mr31itxaa9701"
     },
     {
       "id": "mr31itxa9v2ym",
@@ -1158,5 +1088,5 @@
       "recurId": "mr31itxaa9701"
     }
   ],
-  "lastActiveDate": "2026-07-07"
+  "lastActiveDate": "2026-07-13"
 }
