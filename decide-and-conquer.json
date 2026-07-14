@@ -51,6 +51,13 @@
       {
         "id": "mrjy245yu4spz",
         "text": "NCS 2nd Technical Interview: Charles Morales - AI Architect (09:00AM)",
+        "done": true,
+        "completedDate": "2026-07-14",
+        "createdDate": "2026-07-14"
+      },
+      {
+        "id": "mrk2z0awxu8e9",
+        "text": "NCS PH: Quick Alignment - Charles Morales - AI Architect (07:00PM)",
         "done": false,
         "completedDate": null,
         "createdDate": "2026-07-14"
