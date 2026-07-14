@@ -10,17 +10,17 @@
       },
       {
         "id": "mr85fh6h6hf4p",
-        "text": "12604064 Google SFWT_ENG - Solution Plan",
+        "text": "12604064 Google SFWT_ENG - Review docs, Sync Up",
         "done": false,
         "completedDate": null,
         "createdDate": "2026-07-06"
       },
       {
-        "id": "mrio5yos64vpd",
+        "id": "mrjxzvcglmphx",
         "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-        "done": true,
-        "completedDate": "2026-07-13",
-        "createdDate": "2026-07-13",
+        "done": false,
+        "completedDate": null,
+        "createdDate": "2026-07-14",
         "recurId": "mr31ie8wijemv"
       },
       {
@@ -29,38 +29,31 @@
         "done": false,
         "completedDate": null,
         "createdDate": "2026-07-02"
-      },
-      {
-        "id": "mripp0nfb6voa",
-        "text": "Submit myTE Entries for July 1 -15 cut-off",
-        "done": true,
-        "completedDate": "2026-07-13",
-        "createdDate": "2026-07-13"
       }
     ],
     "plan": [
       {
-        "id": "mrio5yosbc6m3",
+        "id": "mrjxzvcg0zpgn",
         "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
         "done": false,
         "completedDate": null,
-        "createdDate": "2026-07-13",
+        "createdDate": "2026-07-14",
         "recurId": "mr31ioleyjqh0"
       },
       {
-        "id": "mrio5yosmq2hf",
+        "id": "mrjxzvcg64q53",
         "text": "Learning : Anthropic Academy",
         "done": false,
         "completedDate": null,
-        "createdDate": "2026-07-13",
+        "createdDate": "2026-07-14",
         "recurId": "mr31itxaa9701"
       },
       {
-        "id": "mripofx1mgnhy",
-        "text": "Learning : Old Training recordings",
-        "done": true,
-        "completedDate": "2026-07-13",
-        "createdDate": "2026-07-13"
+        "id": "mrjy245yu4spz",
+        "text": "NCS 2nd Technical Interview: Charles Morales - AI Architect (09:00AM)",
+        "done": false,
+        "completedDate": null,
+        "createdDate": "2026-07-14"
       }
     ],
     "delegate": [],
@@ -111,16 +104,24 @@
       "text": "Interview with aCommerce (06:00PM)",
       "quadrant": "plan",
       "date": "2026-07-06"
+    },
+    {
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-13"
+    },
+    {
+      "text": "Submit myTE Entries for July 1 -15 cut-off",
+      "quadrant": "do",
+      "date": "2026-07-13"
+    },
+    {
+      "text": "Learning : Old Training recordings",
+      "quadrant": "plan",
+      "date": "2026-07-13"
     }
   ],
   "scheduled": [
-    {
-      "id": "mr31ie8wi7ip5",
-      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-      "quadrant": "do",
-      "date": "2026-07-14",
-      "recurId": "mr31ie8wijemv"
-    },
     {
       "id": "mr31ie8wh0u39",
       "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
@@ -906,13 +907,6 @@
       "recurId": "mr31ie8wijemv"
     },
     {
-      "id": "mr31ioleu0yr5",
-      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
-      "quadrant": "plan",
-      "date": "2026-07-14",
-      "recurId": "mr31ioleyjqh0"
-    },
-    {
       "id": "mr31ioledpiqg",
       "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
       "quadrant": "plan",
@@ -995,13 +989,6 @@
       "quadrant": "plan",
       "date": "2026-07-30",
       "recurId": "mr31ioleyjqh0"
-    },
-    {
-      "id": "mr31itxa9v2ym",
-      "text": "Learning : Anthropic Academy",
-      "quadrant": "plan",
-      "date": "2026-07-14",
-      "recurId": "mr31itxaa9701"
     },
     {
       "id": "mr31itxakzj1h",
@@ -1088,5 +1075,5 @@
       "recurId": "mr31itxaa9701"
     }
   ],
-  "lastActiveDate": "2026-07-13"
+  "lastActiveDate": "2026-07-14"
 }
