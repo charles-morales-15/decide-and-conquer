@@ -18,8 +18,8 @@
       {
         "id": "mrjxzvcglmphx",
         "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-        "done": false,
-        "completedDate": null,
+        "done": true,
+        "completedDate": "2026-07-14",
         "createdDate": "2026-07-14",
         "recurId": "mr31ie8wijemv"
       },
@@ -58,8 +58,15 @@
       {
         "id": "mrk2z0awxu8e9",
         "text": "NCS PH: Quick Alignment - Charles Morales - AI Architect (07:00PM)",
-        "done": false,
-        "completedDate": null,
+        "done": true,
+        "completedDate": "2026-07-14",
+        "createdDate": "2026-07-14"
+      },
+      {
+        "id": "mrk2zj3oln6gv",
+        "text": "Pay bills",
+        "done": true,
+        "completedDate": "2026-07-14",
         "createdDate": "2026-07-14"
       }
     ],
