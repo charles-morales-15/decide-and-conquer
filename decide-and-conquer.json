@@ -3,71 +3,20 @@
     "do": [
       {
         "id": "mr4mfrce37hpa",
-        "text": "12598064 Google GBO_Ads - Requirements Gathering",
+        "text": "12598064 Google GBO_Ads - Client Meeting Updates",
         "done": false,
         "completedDate": null,
         "createdDate": "2026-07-03"
-      },
-      {
-        "id": "mr85fh6h6hf4p",
-        "text": "12604064 Google SFWT_ENG - Review docs, Sync Up",
-        "done": false,
-        "completedDate": null,
-        "createdDate": "2026-07-06"
-      },
-      {
-        "id": "mrjxzvcglmphx",
-        "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-        "done": true,
-        "completedDate": "2026-07-14",
-        "createdDate": "2026-07-14",
-        "recurId": "mr31ie8wijemv"
-      },
-      {
-        "id": "mr3238cy9u407",
-        "text": "GEV : Follow-up on pending action items (FORM, MSA etc)",
-        "done": false,
-        "completedDate": null,
-        "createdDate": "2026-07-02"
       }
     ],
     "plan": [
       {
-        "id": "mrjxzvcg0zpgn",
-        "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
+        "id": "ms01emgbazkhu",
+        "text": "Learning : GoFluent - Thai",
         "done": false,
         "completedDate": null,
-        "createdDate": "2026-07-14",
-        "recurId": "mr31ioleyjqh0"
-      },
-      {
-        "id": "mrjxzvcg64q53",
-        "text": "Learning : Anthropic Academy",
-        "done": false,
-        "completedDate": null,
-        "createdDate": "2026-07-14",
-        "recurId": "mr31itxaa9701"
-      },
-      {
-        "id": "mrjy245yu4spz",
-        "text": "NCS 2nd Technical Interview: Charles Morales - AI Architect (09:00AM)",
-        "done": true,
-        "completedDate": "2026-07-14",
-        "createdDate": "2026-07-14"
-      },
-      {
-        "id": "mrk2z0awxu8e9",
-        "text": "NCS PH: Quick Alignment - Charles Morales - AI Architect (07:00PM)",
-        "done": true,
-        "completedDate": "2026-07-14",
-        "createdDate": "2026-07-14"
-      },
-      {
-        "id": "mrk2zj3oln6gv",
-        "text": "Pay bills",
-        "done": true,
-        "completedDate": "2026-07-14",
-        "createdDate": "2026-07-14"
+        "createdDate": "2026-07-25",
+        "recurId": "ms01ezq9vna2p"
       }
     ],
     "delegate": [],
@@ -133,65 +82,29 @@
       "text": "Learning : Old Training recordings",
       "quadrant": "plan",
       "date": "2026-07-13"
+    },
+    {
+      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
+      "quadrant": "do",
+      "date": "2026-07-14"
+    },
+    {
+      "text": "NCS 2nd Technical Interview: Charles Morales - AI Architect (09:00AM)",
+      "quadrant": "plan",
+      "date": "2026-07-14"
+    },
+    {
+      "text": "NCS PH: Quick Alignment - Charles Morales - AI Architect (07:00PM)",
+      "quadrant": "plan",
+      "date": "2026-07-14"
+    },
+    {
+      "text": "Pay bills",
+      "quadrant": "plan",
+      "date": "2026-07-14"
     }
   ],
   "scheduled": [
-    {
-      "id": "mr31ie8wh0u39",
-      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-      "quadrant": "do",
-      "date": "2026-07-15",
-      "recurId": "mr31ie8wijemv"
-    },
-    {
-      "id": "mr31ie8w7ekee",
-      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-      "quadrant": "do",
-      "date": "2026-07-16",
-      "recurId": "mr31ie8wijemv"
-    },
-    {
-      "id": "mr31ie8wh8g8v",
-      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-      "quadrant": "do",
-      "date": "2026-07-17",
-      "recurId": "mr31ie8wijemv"
-    },
-    {
-      "id": "mr31ie8wvmdr3",
-      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-      "quadrant": "do",
-      "date": "2026-07-20",
-      "recurId": "mr31ie8wijemv"
-    },
-    {
-      "id": "mr31ie8wb7m4x",
-      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-      "quadrant": "do",
-      "date": "2026-07-21",
-      "recurId": "mr31ie8wijemv"
-    },
-    {
-      "id": "mr31ie8wvgpp7",
-      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-      "quadrant": "do",
-      "date": "2026-07-22",
-      "recurId": "mr31ie8wijemv"
-    },
-    {
-      "id": "mr31ie8wt86kc",
-      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-      "quadrant": "do",
-      "date": "2026-07-23",
-      "recurId": "mr31ie8wijemv"
-    },
-    {
-      "id": "mr31ie8x15nnm",
-      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-      "quadrant": "do",
-      "date": "2026-07-24",
-      "recurId": "mr31ie8wijemv"
-    },
     {
       "id": "mr31ie8x4wsel",
       "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
@@ -921,62 +834,6 @@
       "recurId": "mr31ie8wijemv"
     },
     {
-      "id": "mr31ioledpiqg",
-      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
-      "quadrant": "plan",
-      "date": "2026-07-15",
-      "recurId": "mr31ioleyjqh0"
-    },
-    {
-      "id": "mr31iolej4xem",
-      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
-      "quadrant": "plan",
-      "date": "2026-07-16",
-      "recurId": "mr31ioleyjqh0"
-    },
-    {
-      "id": "mr31iolesghu9",
-      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
-      "quadrant": "plan",
-      "date": "2026-07-17",
-      "recurId": "mr31ioleyjqh0"
-    },
-    {
-      "id": "mr31ioleafgj8",
-      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
-      "quadrant": "plan",
-      "date": "2026-07-20",
-      "recurId": "mr31ioleyjqh0"
-    },
-    {
-      "id": "mr31iolewn1zp",
-      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
-      "quadrant": "plan",
-      "date": "2026-07-21",
-      "recurId": "mr31ioleyjqh0"
-    },
-    {
-      "id": "mr31iolep0jk4",
-      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
-      "quadrant": "plan",
-      "date": "2026-07-22",
-      "recurId": "mr31ioleyjqh0"
-    },
-    {
-      "id": "mr31ioleyulob",
-      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
-      "quadrant": "plan",
-      "date": "2026-07-23",
-      "recurId": "mr31ioleyjqh0"
-    },
-    {
-      "id": "mr31iolekcaqq",
-      "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
-      "quadrant": "plan",
-      "date": "2026-07-24",
-      "recurId": "mr31ioleyjqh0"
-    },
-    {
       "id": "mr31ioleluqss",
       "text": "Learning : Agentic AI Business Solutions Architect [AB-100]",
       "quadrant": "plan",
@@ -1005,62 +862,6 @@
       "recurId": "mr31ioleyjqh0"
     },
     {
-      "id": "mr31itxakzj1h",
-      "text": "Learning : Anthropic Academy",
-      "quadrant": "plan",
-      "date": "2026-07-15",
-      "recurId": "mr31itxaa9701"
-    },
-    {
-      "id": "mr31itxapnes1",
-      "text": "Learning : Anthropic Academy",
-      "quadrant": "plan",
-      "date": "2026-07-16",
-      "recurId": "mr31itxaa9701"
-    },
-    {
-      "id": "mr31itxa4g0jp",
-      "text": "Learning : Anthropic Academy",
-      "quadrant": "plan",
-      "date": "2026-07-17",
-      "recurId": "mr31itxaa9701"
-    },
-    {
-      "id": "mr31itxae0rp8",
-      "text": "Learning : Anthropic Academy",
-      "quadrant": "plan",
-      "date": "2026-07-20",
-      "recurId": "mr31itxaa9701"
-    },
-    {
-      "id": "mr31itxa7slyz",
-      "text": "Learning : Anthropic Academy",
-      "quadrant": "plan",
-      "date": "2026-07-21",
-      "recurId": "mr31itxaa9701"
-    },
-    {
-      "id": "mr31itxai5m2r",
-      "text": "Learning : Anthropic Academy",
-      "quadrant": "plan",
-      "date": "2026-07-22",
-      "recurId": "mr31itxaa9701"
-    },
-    {
-      "id": "mr31itxazewkw",
-      "text": "Learning : Anthropic Academy",
-      "quadrant": "plan",
-      "date": "2026-07-23",
-      "recurId": "mr31itxaa9701"
-    },
-    {
-      "id": "mr31itxaa8hq9",
-      "text": "Learning : Anthropic Academy",
-      "quadrant": "plan",
-      "date": "2026-07-24",
-      "recurId": "mr31itxaa9701"
-    },
-    {
       "id": "mr31itxap8ony",
       "text": "Learning : Anthropic Academy",
       "quadrant": "plan",
@@ -1087,7 +888,147 @@
       "quadrant": "plan",
       "date": "2026-07-30",
       "recurId": "mr31itxaa9701"
+    },
+    {
+      "id": "ms01ezq9pzntm",
+      "text": "Learning : GoFluent - Thai",
+      "quadrant": "plan",
+      "date": "2026-07-26",
+      "recurId": "ms01ezq9vna2p"
+    },
+    {
+      "id": "ms01ezq9vtbcj",
+      "text": "Learning : GoFluent - Thai",
+      "quadrant": "plan",
+      "date": "2026-07-27",
+      "recurId": "ms01ezq9vna2p"
+    },
+    {
+      "id": "ms01ezq9qmjh1",
+      "text": "Learning : GoFluent - Thai",
+      "quadrant": "plan",
+      "date": "2026-07-28",
+      "recurId": "ms01ezq9vna2p"
+    },
+    {
+      "id": "ms01ezq9unh1d",
+      "text": "Learning : GoFluent - Thai",
+      "quadrant": "plan",
+      "date": "2026-07-29",
+      "recurId": "ms01ezq9vna2p"
+    },
+    {
+      "id": "ms01ezq9pnfzp",
+      "text": "Learning : GoFluent - Thai",
+      "quadrant": "plan",
+      "date": "2026-07-30",
+      "recurId": "ms01ezq9vna2p"
+    },
+    {
+      "id": "ms01ezq9rebhx",
+      "text": "Learning : GoFluent - Thai",
+      "quadrant": "plan",
+      "date": "2026-07-31",
+      "recurId": "ms01ezq9vna2p"
+    },
+    {
+      "id": "ms01ezq9y9ios",
+      "text": "Learning : GoFluent - Thai",
+      "quadrant": "plan",
+      "date": "2026-08-01",
+      "recurId": "ms01ezq9vna2p"
+    },
+    {
+      "id": "ms01ezq93npsp",
+      "text": "Learning : GoFluent - Thai",
+      "quadrant": "plan",
+      "date": "2026-08-02",
+      "recurId": "ms01ezq9vna2p"
+    },
+    {
+      "id": "ms01ezq95m7ej",
+      "text": "Learning : GoFluent - Thai",
+      "quadrant": "plan",
+      "date": "2026-08-03",
+      "recurId": "ms01ezq9vna2p"
+    },
+    {
+      "id": "ms01ezq970b70",
+      "text": "Learning : GoFluent - Thai",
+      "quadrant": "plan",
+      "date": "2026-08-04",
+      "recurId": "ms01ezq9vna2p"
+    },
+    {
+      "id": "ms01ezq95inpu",
+      "text": "Learning : GoFluent - Thai",
+      "quadrant": "plan",
+      "date": "2026-08-05",
+      "recurId": "ms01ezq9vna2p"
+    },
+    {
+      "id": "ms01ezq9ydfjc",
+      "text": "Learning : GoFluent - Thai",
+      "quadrant": "plan",
+      "date": "2026-08-06",
+      "recurId": "ms01ezq9vna2p"
+    },
+    {
+      "id": "ms01ezq90e79w",
+      "text": "Learning : GoFluent - Thai",
+      "quadrant": "plan",
+      "date": "2026-08-07",
+      "recurId": "ms01ezq9vna2p"
+    },
+    {
+      "id": "ms01ezq9b8ioh",
+      "text": "Learning : GoFluent - Thai",
+      "quadrant": "plan",
+      "date": "2026-08-08",
+      "recurId": "ms01ezq9vna2p"
+    },
+    {
+      "id": "ms01ezq9kh4oi",
+      "text": "Learning : GoFluent - Thai",
+      "quadrant": "plan",
+      "date": "2026-08-09",
+      "recurId": "ms01ezq9vna2p"
+    },
+    {
+      "id": "ms01ezq95mfbm",
+      "text": "Learning : GoFluent - Thai",
+      "quadrant": "plan",
+      "date": "2026-08-10",
+      "recurId": "ms01ezq9vna2p"
+    },
+    {
+      "id": "ms01ezq9h34m1",
+      "text": "Learning : GoFluent - Thai",
+      "quadrant": "plan",
+      "date": "2026-08-11",
+      "recurId": "ms01ezq9vna2p"
+    },
+    {
+      "id": "ms01ezq9okrwn",
+      "text": "Learning : GoFluent - Thai",
+      "quadrant": "plan",
+      "date": "2026-08-12",
+      "recurId": "ms01ezq9vna2p"
+    },
+    {
+      "id": "ms01ezq9p16h6",
+      "text": "Learning : GoFluent - Thai",
+      "quadrant": "plan",
+      "date": "2026-08-13",
+      "recurId": "ms01ezq9vna2p"
+    },
+    {
+      "id": "ms01ezq9u6ekq",
+      "text": "Learning : GoFluent - Thai",
+      "quadrant": "plan",
+      "date": "2026-08-14",
+      "recurId": "ms01ezq9vna2p"
     }
   ],
-  "lastActiveDate": "2026-07-14"
+  "lastActiveDate": "2026-07-25"
 }
