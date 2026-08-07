@@ -9,21 +9,29 @@
         "createdDate": "2026-07-03"
       },
       {
-        "id": "mshix6cc9q5o8",
+        "id": "mshr9al1trxtb",
         "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
         "done": false,
         "completedDate": null,
-        "createdDate": "2026-08-06",
+        "createdDate": "2026-08-07",
         "recurId": "mr31ie8wijemv"
       }
     ],
     "plan": [
       {
-        "id": "mshix6ccw02r0",
+        "id": "msipspm8272tb",
+        "text": "Learning : Anthropic",
+        "done": false,
+        "completedDate": null,
+        "createdDate": "2026-08-07",
+        "recurId": "msiptb9cgi1jj"
+      },
+      {
+        "id": "mshr9al1ogc1b",
         "text": "Learning : GoFluent - Thai",
         "done": false,
         "completedDate": null,
-        "createdDate": "2026-08-06",
+        "createdDate": "2026-08-07",
         "recurId": "ms01ezq9vna2p"
       }
     ],
@@ -113,13 +121,6 @@
     }
   ],
   "scheduled": [
-    {
-      "id": "mr31ie8xx14uf",
-      "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
-      "quadrant": "do",
-      "date": "2026-08-07",
-      "recurId": "mr31ie8wijemv"
-    },
     {
       "id": "mr31ie8xwm9se",
       "text": "Best Practice : AI & Data SA Deal Triage (09:30PM)",
@@ -779,13 +780,6 @@
       "recurId": "mr31ie8wijemv"
     },
     {
-      "id": "ms01ezq90e79w",
-      "text": "Learning : GoFluent - Thai",
-      "quadrant": "plan",
-      "date": "2026-08-07",
-      "recurId": "ms01ezq9vna2p"
-    },
-    {
       "id": "ms01ezq9b8ioh",
       "text": "Learning : GoFluent - Thai",
       "quadrant": "plan",
@@ -833,7 +827,147 @@
       "quadrant": "plan",
       "date": "2026-08-14",
       "recurId": "ms01ezq9vna2p"
+    },
+    {
+      "id": "msiptb9cqfsyn",
+      "text": "Learning : Anthropic",
+      "quadrant": "plan",
+      "date": "2026-08-08",
+      "recurId": "msiptb9cgi1jj"
+    },
+    {
+      "id": "msiptb9c83rfc",
+      "text": "Learning : Anthropic",
+      "quadrant": "plan",
+      "date": "2026-08-09",
+      "recurId": "msiptb9cgi1jj"
+    },
+    {
+      "id": "msiptb9c6uht9",
+      "text": "Learning : Anthropic",
+      "quadrant": "plan",
+      "date": "2026-08-10",
+      "recurId": "msiptb9cgi1jj"
+    },
+    {
+      "id": "msiptb9c9nld4",
+      "text": "Learning : Anthropic",
+      "quadrant": "plan",
+      "date": "2026-08-11",
+      "recurId": "msiptb9cgi1jj"
+    },
+    {
+      "id": "msiptb9cofbcj",
+      "text": "Learning : Anthropic",
+      "quadrant": "plan",
+      "date": "2026-08-12",
+      "recurId": "msiptb9cgi1jj"
+    },
+    {
+      "id": "msiptb9cq7910",
+      "text": "Learning : Anthropic",
+      "quadrant": "plan",
+      "date": "2026-08-13",
+      "recurId": "msiptb9cgi1jj"
+    },
+    {
+      "id": "msiptb9czfy0f",
+      "text": "Learning : Anthropic",
+      "quadrant": "plan",
+      "date": "2026-08-14",
+      "recurId": "msiptb9cgi1jj"
+    },
+    {
+      "id": "msiptb9c4ns5y",
+      "text": "Learning : Anthropic",
+      "quadrant": "plan",
+      "date": "2026-08-15",
+      "recurId": "msiptb9cgi1jj"
+    },
+    {
+      "id": "msiptb9cp56ar",
+      "text": "Learning : Anthropic",
+      "quadrant": "plan",
+      "date": "2026-08-16",
+      "recurId": "msiptb9cgi1jj"
+    },
+    {
+      "id": "msiptb9cqmf9r",
+      "text": "Learning : Anthropic",
+      "quadrant": "plan",
+      "date": "2026-08-17",
+      "recurId": "msiptb9cgi1jj"
+    },
+    {
+      "id": "msiptb9cvavpx",
+      "text": "Learning : Anthropic",
+      "quadrant": "plan",
+      "date": "2026-08-18",
+      "recurId": "msiptb9cgi1jj"
+    },
+    {
+      "id": "msiptb9c7zdgd",
+      "text": "Learning : Anthropic",
+      "quadrant": "plan",
+      "date": "2026-08-19",
+      "recurId": "msiptb9cgi1jj"
+    },
+    {
+      "id": "msiptb9c5w4vl",
+      "text": "Learning : Anthropic",
+      "quadrant": "plan",
+      "date": "2026-08-20",
+      "recurId": "msiptb9cgi1jj"
+    },
+    {
+      "id": "msiptb9c05noq",
+      "text": "Learning : Anthropic",
+      "quadrant": "plan",
+      "date": "2026-08-21",
+      "recurId": "msiptb9cgi1jj"
+    },
+    {
+      "id": "msiptb9ccb8vf",
+      "text": "Learning : Anthropic",
+      "quadrant": "plan",
+      "date": "2026-08-22",
+      "recurId": "msiptb9cgi1jj"
+    },
+    {
+      "id": "msiptb9c35w9y",
+      "text": "Learning : Anthropic",
+      "quadrant": "plan",
+      "date": "2026-08-23",
+      "recurId": "msiptb9cgi1jj"
+    },
+    {
+      "id": "msiptb9cc027m",
+      "text": "Learning : Anthropic",
+      "quadrant": "plan",
+      "date": "2026-08-24",
+      "recurId": "msiptb9cgi1jj"
+    },
+    {
+      "id": "msiptb9cm72h5",
+      "text": "Learning : Anthropic",
+      "quadrant": "plan",
+      "date": "2026-08-25",
+      "recurId": "msiptb9cgi1jj"
+    },
+    {
+      "id": "msiptb9cohh5x",
+      "text": "Learning : Anthropic",
+      "quadrant": "plan",
+      "date": "2026-08-26",
+      "recurId": "msiptb9cgi1jj"
+    },
+    {
+      "id": "msiptb9cow3qv",
+      "text": "Learning : Anthropic",
+      "quadrant": "plan",
+      "date": "2026-08-27",
+      "recurId": "msiptb9cgi1jj"
     }
   ],
-  "lastActiveDate": "2026-08-06"
+  "lastActiveDate": "2026-08-07"
 }
